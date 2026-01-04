@@ -1,4 +1,4 @@
-# MiniAssignment
+# MiniAssignment using Node JS
 Secure User Login with Profile Photo Upload using Node Js
 
 In this mini project, I have build a small backend system that can:
