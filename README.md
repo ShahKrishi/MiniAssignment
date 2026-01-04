@@ -1,8 +1,6 @@
 # MiniAssignment
 Secure User Login with Profile Photo Upload using Node Js
 
-Project Goal
-
 In this mini project, I have build a small backend system that can:
 
 ● Register a user with a password
